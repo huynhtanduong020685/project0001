@@ -1,0 +1,233 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/pipo/Desktop/Archive/platforms/android/app/src/main/AndroidManifest.xml:2:1-17:12
+INJECTED from /Users/pipo/Desktop/Archive/platforms/android/app/src/main/AndroidManifest.xml:2:1-17:12
+INJECTED from /Users/pipo/Desktop/Archive/platforms/android/app/src/main/AndroidManifest.xml:2:1-17:12
+INJECTED from /Users/pipo/Desktop/Archive/platforms/android/app/src/main/AndroidManifest.xml:2:1-17:12
+MERGED from [com.facebook.android:facebook-android-sdk:4.40.0] /Users/pipo/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.40.0.aar/3b1350f16e89d00a47d47b97702560ff/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-login:4.40.0] /Users/pipo/.gradle/caches/transforms-1/files-1.1/facebook-login-4.40.0.aar/b279a44d404697355e9b2728c604019b/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-share:4.40.0] /Users/pipo/.gradle/caches/transforms-1/files-1.1/facebook-share-4.40.0.aar/39afe712669403acaf50e431cb76f62b/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-common:4.40.0] /Users/pipo/.gradle/caches/transforms-1/files-1.1/facebook-common-4.40.0.aar/91fc6f5e6bbfd6d30dac6d21ac58cb4c/AndroidManifest.xml:21:1-37:12
+MERGED from [com.facebook.android:facebook-places:4.40.0] /Users/pipo/.gradle/caches/transforms-1/files-1.1/facebook-places-4.40.0.aar/b6778408a9ce2d563ac38ee0a6278251/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-applinks:4.40.0] /Users/pipo/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.40.0.aar/b6f75daf110faf54dcd2a5940f9570ae/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-messenger:4.40.0] /Users/pipo/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.40.0.aar/ae44b385a5e0ff18012498bb48c36f47/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-marketing:4.40.0] /Users/pipo/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.40.0.aar/e14a9740ec4624712f6767078f5ec886/AndroidManifest.xml:21:1-35:12
+MERGED from [com.facebook.android:facebook-core:4.40.0] /Users/pipo/.gradle/caches/transforms-1/files-1.1/facebook-core-4.40.0.aar/a178c1db8d8433ce34c9ef23a3c7c2b1/AndroidManifest.xml:21:1-53:12
+MERGED from [com.android.support:support-v4:27.0.2] /Users/pipo/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/f9972da6d858483bf2094cc0706b9d10/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/pipo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/b36c35ad392cf3f265cfff498d8a0d87/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/pipo/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/75a6f62d5e674cad9049a4579fb263f0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/pipo/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/1dd5ff94e1355dff189c1253cc47a861/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.0.2] /Users/pipo/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/cb22b9619b0a13c274b5e1a1122101ba/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customtabs:27.0.2] /Users/pipo/.gradle/caches/transforms-1/files-1.1/customtabs-27.0.2.aar/98efaa403cbda26a8676eac2e4dba1ca/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/pipo/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/4ee4fedcd89ac8e40d0d572ce8bb185d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/pipo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/3d5830eea841adde2114120da81f2643/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/pipo/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/47e12b80e8d8283cf84e423eee85adf1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/pipo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/c2e7d06cbcc90dad2764b1d572d699b2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] /Users/pipo/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/97522f3f717e0c1a55cd7206aa93f16d/AndroidManifest.xml:17:1-22:12
+MERGED from [:CordovaLib] /Users/pipo/Desktop/Archive/platforms/android/CordovaLib/build/intermediates/manifests/full/debug/AndroidManifest.xml:20:1-27:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/pipo/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/4248e09600c6fd751a3d411a3b28ce22/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/pipo/Desktop/Archive/platforms/android/app/src/main/AndroidManifest.xml:2:1-17:12
+INJECTED from /Users/pipo/Desktop/Archive/platforms/android/app/src/main/AndroidManifest.xml:2:1-17:12
+INJECTED from /Users/pipo/Desktop/Archive/platforms/android/app/src/main/AndroidManifest.xml:2:1-17:12
+	package
+		ADDED from /Users/pipo/Desktop/Archive/platforms/android/app/src/main/AndroidManifest.xml:2:98-131
+		INJECTED from /Users/pipo/Desktop/Archive/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/pipo/Desktop/Archive/platforms/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/pipo/Desktop/Archive/platforms/android/app/src/main/AndroidManifest.xml:2:70-97
+		INJECTED from /Users/pipo/Desktop/Archive/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/pipo/Desktop/Archive/platforms/android/app/src/main/AndroidManifest.xml
+	android:hardwareAccelerated
+		ADDED from /Users/pipo/Desktop/Archive/platforms/android/app/src/main/AndroidManifest.xml:2:11-45
+	xmlns:android
+		ADDED from /Users/pipo/Desktop/Archive/platforms/android/app/src/main/AndroidManifest.xml:2:132-190
+	android:versionCode
+		ADDED from /Users/pipo/Desktop/Archive/platforms/android/app/src/main/AndroidManifest.xml:2:46-69
+		INJECTED from /Users/pipo/Desktop/Archive/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/pipo/Desktop/Archive/platforms/android/app/src/main/AndroidManifest.xml
+supports-screens
+ADDED from /Users/pipo/Desktop/Archive/platforms/android/app/src/main/AndroidManifest.xml:3:5-191
+	android:largeScreens
+		ADDED from /Users/pipo/Desktop/Archive/platforms/android/app/src/main/AndroidManifest.xml:3:49-76
+	android:smallScreens
+		ADDED from /Users/pipo/Desktop/Archive/platforms/android/app/src/main/AndroidManifest.xml:3:132-159
+	android:normalScreens
+		ADDED from /Users/pipo/Desktop/Archive/platforms/android/app/src/main/AndroidManifest.xml:3:77-105
+	android:xlargeScreens
+		ADDED from /Users/pipo/Desktop/Archive/platforms/android/app/src/main/AndroidManifest.xml:3:160-188
+	android:resizeable
+		ADDED from /Users/pipo/Desktop/Archive/platforms/android/app/src/main/AndroidManifest.xml:3:106-131
+	android:anyDensity
+		ADDED from /Users/pipo/Desktop/Archive/platforms/android/app/src/main/AndroidManifest.xml:3:23-48
+uses-permission#android.permission.INTERNET
+ADDED from /Users/pipo/Desktop/Archive/platforms/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/pipo/Desktop/Archive/platforms/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/pipo/Desktop/Archive/platforms/android/app/src/main/AndroidManifest.xml:5:5-15:19
+MERGED from [com.facebook.android:facebook-android-sdk:4.40.0] /Users/pipo/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.40.0.aar/3b1350f16e89d00a47d47b97702560ff/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-android-sdk:4.40.0] /Users/pipo/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.40.0.aar/3b1350f16e89d00a47d47b97702560ff/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-login:4.40.0] /Users/pipo/.gradle/caches/transforms-1/files-1.1/facebook-login-4.40.0.aar/b279a44d404697355e9b2728c604019b/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-login:4.40.0] /Users/pipo/.gradle/caches/transforms-1/files-1.1/facebook-login-4.40.0.aar/b279a44d404697355e9b2728c604019b/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:4.40.0] /Users/pipo/.gradle/caches/transforms-1/files-1.1/facebook-share-4.40.0.aar/39afe712669403acaf50e431cb76f62b/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:4.40.0] /Users/pipo/.gradle/caches/transforms-1/files-1.1/facebook-share-4.40.0.aar/39afe712669403acaf50e431cb76f62b/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-common:4.40.0] /Users/pipo/.gradle/caches/transforms-1/files-1.1/facebook-common-4.40.0.aar/91fc6f5e6bbfd6d30dac6d21ac58cb4c/AndroidManifest.xml:28:5-35:19
+MERGED from [com.facebook.android:facebook-common:4.40.0] /Users/pipo/.gradle/caches/transforms-1/files-1.1/facebook-common-4.40.0.aar/91fc6f5e6bbfd6d30dac6d21ac58cb4c/AndroidManifest.xml:28:5-35:19
+MERGED from [com.facebook.android:facebook-places:4.40.0] /Users/pipo/.gradle/caches/transforms-1/files-1.1/facebook-places-4.40.0.aar/b6778408a9ce2d563ac38ee0a6278251/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-places:4.40.0] /Users/pipo/.gradle/caches/transforms-1/files-1.1/facebook-places-4.40.0.aar/b6778408a9ce2d563ac38ee0a6278251/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-applinks:4.40.0] /Users/pipo/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.40.0.aar/b6f75daf110faf54dcd2a5940f9570ae/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-applinks:4.40.0] /Users/pipo/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.40.0.aar/b6f75daf110faf54dcd2a5940f9570ae/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-messenger:4.40.0] /Users/pipo/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.40.0.aar/ae44b385a5e0ff18012498bb48c36f47/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-messenger:4.40.0] /Users/pipo/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.40.0.aar/ae44b385a5e0ff18012498bb48c36f47/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-marketing:4.40.0] /Users/pipo/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.40.0.aar/e14a9740ec4624712f6767078f5ec886/AndroidManifest.xml:28:5-33:19
+MERGED from [com.facebook.android:facebook-marketing:4.40.0] /Users/pipo/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.40.0.aar/e14a9740ec4624712f6767078f5ec886/AndroidManifest.xml:28:5-33:19
+MERGED from [com.facebook.android:facebook-core:4.40.0] /Users/pipo/.gradle/caches/transforms-1/files-1.1/facebook-core-4.40.0.aar/a178c1db8d8433ce34c9ef23a3c7c2b1/AndroidManifest.xml:28:5-51:19
+MERGED from [com.facebook.android:facebook-core:4.40.0] /Users/pipo/.gradle/caches/transforms-1/files-1.1/facebook-core-4.40.0.aar/a178c1db8d8433ce34c9ef23a3c7c2b1/AndroidManifest.xml:28:5-51:19
+	android:supportsRtl
+		ADDED from /Users/pipo/Desktop/Archive/platforms/android/app/src/main/AndroidManifest.xml:5:114-140
+	android:label
+		ADDED from /Users/pipo/Desktop/Archive/platforms/android/app/src/main/AndroidManifest.xml:5:81-113
+	android:hardwareAccelerated
+		ADDED from /Users/pipo/Desktop/Archive/platforms/android/app/src/main/AndroidManifest.xml:5:18-52
+	android:icon
+		ADDED from /Users/pipo/Desktop/Archive/platforms/android/app/src/main/AndroidManifest.xml:5:53-80
+activity#io.facetrip.vietnamteam.MainActivity
+ADDED from /Users/pipo/Desktop/Archive/platforms/android/app/src/main/AndroidManifest.xml:6:9-11:20
+	android:label
+		ADDED from /Users/pipo/Desktop/Archive/platforms/android/app/src/main/AndroidManifest.xml:6:97-134
+	android:launchMode
+		ADDED from /Users/pipo/Desktop/Archive/platforms/android/app/src/main/AndroidManifest.xml:6:135-165
+	android:windowSoftInputMode
+		ADDED from /Users/pipo/Desktop/Archive/platforms/android/app/src/main/AndroidManifest.xml:6:257-299
+	android:configChanges
+		ADDED from /Users/pipo/Desktop/Archive/platforms/android/app/src/main/AndroidManifest.xml:6:19-96
+	android:theme
+		ADDED from /Users/pipo/Desktop/Archive/platforms/android/app/src/main/AndroidManifest.xml:6:194-256
+	android:name
+		ADDED from /Users/pipo/Desktop/Archive/platforms/android/app/src/main/AndroidManifest.xml:6:166-193
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/pipo/Desktop/Archive/platforms/android/app/src/main/AndroidManifest.xml:7:13-10:29
+	android:label
+		ADDED from /Users/pipo/Desktop/Archive/platforms/android/app/src/main/AndroidManifest.xml:7:28-65
+action#android.intent.action.MAIN
+ADDED from /Users/pipo/Desktop/Archive/platforms/android/app/src/main/AndroidManifest.xml:8:17-69
+	android:name
+		ADDED from /Users/pipo/Desktop/Archive/platforms/android/app/src/main/AndroidManifest.xml:8:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/pipo/Desktop/Archive/platforms/android/app/src/main/AndroidManifest.xml:9:17-77
+	android:name
+		ADDED from /Users/pipo/Desktop/Archive/platforms/android/app/src/main/AndroidManifest.xml:9:27-74
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from /Users/pipo/Desktop/Archive/platforms/android/app/src/main/AndroidManifest.xml:12:9-102
+	android:value
+		ADDED from /Users/pipo/Desktop/Archive/platforms/android/app/src/main/AndroidManifest.xml:12:66-99
+	android:name
+		ADDED from /Users/pipo/Desktop/Archive/platforms/android/app/src/main/AndroidManifest.xml:12:20-65
+meta-data#com.facebook.sdk.ApplicationName
+ADDED from /Users/pipo/Desktop/Archive/platforms/android/app/src/main/AndroidManifest.xml:13:9-106
+	android:value
+		ADDED from /Users/pipo/Desktop/Archive/platforms/android/app/src/main/AndroidManifest.xml:13:68-103
+	android:name
+		ADDED from /Users/pipo/Desktop/Archive/platforms/android/app/src/main/AndroidManifest.xml:13:20-67
+activity#com.facebook.FacebookActivity
+ADDED from /Users/pipo/Desktop/Archive/platforms/android/app/src/main/AndroidManifest.xml:14:9-186
+MERGED from [com.facebook.android:facebook-common:4.40.0] /Users/pipo/.gradle/caches/transforms-1/files-1.1/facebook-common-4.40.0.aar/91fc6f5e6bbfd6d30dac6d21ac58cb4c/AndroidManifest.xml:29:9-32:66
+MERGED from [com.facebook.android:facebook-common:4.40.0] /Users/pipo/.gradle/caches/transforms-1/files-1.1/facebook-common-4.40.0.aar/91fc6f5e6bbfd6d30dac6d21ac58cb4c/AndroidManifest.xml:29:9-32:66
+	android:label
+		ADDED from /Users/pipo/Desktop/Archive/platforms/android/app/src/main/AndroidManifest.xml:14:103-138
+	android:configChanges
+		ADDED from /Users/pipo/Desktop/Archive/platforms/android/app/src/main/AndroidManifest.xml:14:19-102
+	android:theme
+		ADDED from [com.facebook.android:facebook-common:4.40.0] /Users/pipo/.gradle/caches/transforms-1/files-1.1/facebook-common-4.40.0.aar/91fc6f5e6bbfd6d30dac6d21ac58cb4c/AndroidManifest.xml:32:13-63
+	android:name
+		ADDED from /Users/pipo/Desktop/Archive/platforms/android/app/src/main/AndroidManifest.xml:14:139-183
+uses-sdk
+ADDED from /Users/pipo/Desktop/Archive/platforms/android/app/src/main/AndroidManifest.xml:16:5-74
+INJECTED from /Users/pipo/Desktop/Archive/platforms/android/app/src/main/AndroidManifest.xml:16:5-74
+MERGED from [com.facebook.android:facebook-android-sdk:4.40.0] /Users/pipo/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.40.0.aar/3b1350f16e89d00a47d47b97702560ff/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-android-sdk:4.40.0] /Users/pipo/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.40.0.aar/3b1350f16e89d00a47d47b97702560ff/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-login:4.40.0] /Users/pipo/.gradle/caches/transforms-1/files-1.1/facebook-login-4.40.0.aar/b279a44d404697355e9b2728c604019b/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-login:4.40.0] /Users/pipo/.gradle/caches/transforms-1/files-1.1/facebook-login-4.40.0.aar/b279a44d404697355e9b2728c604019b/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:4.40.0] /Users/pipo/.gradle/caches/transforms-1/files-1.1/facebook-share-4.40.0.aar/39afe712669403acaf50e431cb76f62b/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:4.40.0] /Users/pipo/.gradle/caches/transforms-1/files-1.1/facebook-share-4.40.0.aar/39afe712669403acaf50e431cb76f62b/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:4.40.0] /Users/pipo/.gradle/caches/transforms-1/files-1.1/facebook-common-4.40.0.aar/91fc6f5e6bbfd6d30dac6d21ac58cb4c/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:4.40.0] /Users/pipo/.gradle/caches/transforms-1/files-1.1/facebook-common-4.40.0.aar/91fc6f5e6bbfd6d30dac6d21ac58cb4c/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-places:4.40.0] /Users/pipo/.gradle/caches/transforms-1/files-1.1/facebook-places-4.40.0.aar/b6778408a9ce2d563ac38ee0a6278251/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-places:4.40.0] /Users/pipo/.gradle/caches/transforms-1/files-1.1/facebook-places-4.40.0.aar/b6778408a9ce2d563ac38ee0a6278251/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-applinks:4.40.0] /Users/pipo/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.40.0.aar/b6f75daf110faf54dcd2a5940f9570ae/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-applinks:4.40.0] /Users/pipo/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.40.0.aar/b6f75daf110faf54dcd2a5940f9570ae/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-messenger:4.40.0] /Users/pipo/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.40.0.aar/ae44b385a5e0ff18012498bb48c36f47/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-messenger:4.40.0] /Users/pipo/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.40.0.aar/ae44b385a5e0ff18012498bb48c36f47/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-marketing:4.40.0] /Users/pipo/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.40.0.aar/e14a9740ec4624712f6767078f5ec886/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-marketing:4.40.0] /Users/pipo/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.40.0.aar/e14a9740ec4624712f6767078f5ec886/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:4.40.0] /Users/pipo/.gradle/caches/transforms-1/files-1.1/facebook-core-4.40.0.aar/a178c1db8d8433ce34c9ef23a3c7c2b1/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:4.40.0] /Users/pipo/.gradle/caches/transforms-1/files-1.1/facebook-core-4.40.0.aar/a178c1db8d8433ce34c9ef23a3c7c2b1/AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:support-v4:27.0.2] /Users/pipo/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/f9972da6d858483bf2094cc0706b9d10/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] /Users/pipo/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/f9972da6d858483bf2094cc0706b9d10/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/pipo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/b36c35ad392cf3f265cfff498d8a0d87/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/pipo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/b36c35ad392cf3f265cfff498d8a0d87/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/pipo/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/75a6f62d5e674cad9049a4579fb263f0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/pipo/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/75a6f62d5e674cad9049a4579fb263f0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/pipo/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/1dd5ff94e1355dff189c1253cc47a861/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/pipo/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/1dd5ff94e1355dff189c1253cc47a861/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] /Users/pipo/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/cb22b9619b0a13c274b5e1a1122101ba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] /Users/pipo/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/cb22b9619b0a13c274b5e1a1122101ba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.0.2] /Users/pipo/.gradle/caches/transforms-1/files-1.1/customtabs-27.0.2.aar/98efaa403cbda26a8676eac2e4dba1ca/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.0.2] /Users/pipo/.gradle/caches/transforms-1/files-1.1/customtabs-27.0.2.aar/98efaa403cbda26a8676eac2e4dba1ca/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/pipo/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/4ee4fedcd89ac8e40d0d572ce8bb185d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/pipo/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/4ee4fedcd89ac8e40d0d572ce8bb185d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/pipo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/3d5830eea841adde2114120da81f2643/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/pipo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/3d5830eea841adde2114120da81f2643/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/pipo/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/47e12b80e8d8283cf84e423eee85adf1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/pipo/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/47e12b80e8d8283cf84e423eee85adf1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/pipo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/c2e7d06cbcc90dad2764b1d572d699b2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/pipo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/c2e7d06cbcc90dad2764b1d572d699b2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /Users/pipo/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/97522f3f717e0c1a55cd7206aa93f16d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /Users/pipo/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/97522f3f717e0c1a55cd7206aa93f16d/AndroidManifest.xml:20:5-44
+MERGED from [:CordovaLib] /Users/pipo/Desktop/Archive/platforms/android/CordovaLib/build/intermediates/manifests/full/debug/AndroidManifest.xml:25:5-44
+MERGED from [:CordovaLib] /Users/pipo/Desktop/Archive/platforms/android/CordovaLib/build/intermediates/manifests/full/debug/AndroidManifest.xml:25:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/pipo/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/4248e09600c6fd751a3d411a3b28ce22/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/pipo/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/4248e09600c6fd751a3d411a3b28ce22/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/pipo/Desktop/Archive/platforms/android/app/src/main/AndroidManifest.xml:16:5-74
+	android:targetSdkVersion
+		ADDED from /Users/pipo/Desktop/Archive/platforms/android/app/src/main/AndroidManifest.xml:16:42-71
+	android:minSdkVersion
+		ADDED from /Users/pipo/Desktop/Archive/platforms/android/app/src/main/AndroidManifest.xml:16:15-41
+		INJECTED from /Users/pipo/Desktop/Archive/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/pipo/Desktop/Archive/platforms/android/app/src/main/AndroidManifest.xml
+activity#com.facebook.CustomTabMainActivity
+ADDED from [com.facebook.android:facebook-common:4.40.0] /Users/pipo/.gradle/caches/transforms-1/files-1.1/facebook-common-4.40.0.aar/91fc6f5e6bbfd6d30dac6d21ac58cb4c/AndroidManifest.xml:33:9-71
+	android:name
+		ADDED from [com.facebook.android:facebook-common:4.40.0] /Users/pipo/.gradle/caches/transforms-1/files-1.1/facebook-common-4.40.0.aar/91fc6f5e6bbfd6d30dac6d21ac58cb4c/AndroidManifest.xml:33:19-68
+activity#com.facebook.CustomTabActivity
+ADDED from [com.facebook.android:facebook-common:4.40.0] /Users/pipo/.gradle/caches/transforms-1/files-1.1/facebook-common-4.40.0.aar/91fc6f5e6bbfd6d30dac6d21ac58cb4c/AndroidManifest.xml:34:9-67
+	android:name
+		ADDED from [com.facebook.android:facebook-common:4.40.0] /Users/pipo/.gradle/caches/transforms-1/files-1.1/facebook-common-4.40.0.aar/91fc6f5e6bbfd6d30dac6d21ac58cb4c/AndroidManifest.xml:34:19-64
+provider#com.facebook.marketing.internal.MarketingInitProvider
+ADDED from [com.facebook.android:facebook-marketing:4.40.0] /Users/pipo/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.40.0.aar/e14a9740ec4624712f6767078f5ec886/AndroidManifest.xml:29:9-32:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-marketing:4.40.0] /Users/pipo/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.40.0.aar/e14a9740ec4624712f6767078f5ec886/AndroidManifest.xml:31:13-73
+	android:exported
+		ADDED from [com.facebook.android:facebook-marketing:4.40.0] /Users/pipo/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.40.0.aar/e14a9740ec4624712f6767078f5ec886/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-marketing:4.40.0] /Users/pipo/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.40.0.aar/e14a9740ec4624712f6767078f5ec886/AndroidManifest.xml:30:13-81
+provider#com.facebook.internal.FacebookInitProvider
+ADDED from [com.facebook.android:facebook-core:4.40.0] /Users/pipo/.gradle/caches/transforms-1/files-1.1/facebook-core-4.40.0.aar/a178c1db8d8433ce34c9ef23a3c7c2b1/AndroidManifest.xml:39:9-42:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-core:4.40.0] /Users/pipo/.gradle/caches/transforms-1/files-1.1/facebook-core-4.40.0.aar/a178c1db8d8433ce34c9ef23a3c7c2b1/AndroidManifest.xml:41:13-72
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:4.40.0] /Users/pipo/.gradle/caches/transforms-1/files-1.1/facebook-core-4.40.0.aar/a178c1db8d8433ce34c9ef23a3c7c2b1/AndroidManifest.xml:42:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:4.40.0] /Users/pipo/.gradle/caches/transforms-1/files-1.1/facebook-core-4.40.0.aar/a178c1db8d8433ce34c9ef23a3c7c2b1/AndroidManifest.xml:40:13-70
+receiver#com.facebook.CurrentAccessTokenExpirationBroadcastReceiver
+ADDED from [com.facebook.android:facebook-core:4.40.0] /Users/pipo/.gradle/caches/transforms-1/files-1.1/facebook-core-4.40.0.aar/a178c1db8d8433ce34c9ef23a3c7c2b1/AndroidManifest.xml:44:9-50:20
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:4.40.0] /Users/pipo/.gradle/caches/transforms-1/files-1.1/facebook-core-4.40.0.aar/a178c1db8d8433ce34c9ef23a3c7c2b1/AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:4.40.0] /Users/pipo/.gradle/caches/transforms-1/files-1.1/facebook-core-4.40.0.aar/a178c1db8d8433ce34c9ef23a3c7c2b1/AndroidManifest.xml:45:13-86
+intent-filter#com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:4.40.0] /Users/pipo/.gradle/caches/transforms-1/files-1.1/facebook-core-4.40.0.aar/a178c1db8d8433ce34c9ef23a3c7c2b1/AndroidManifest.xml:47:13-49:29
+action#com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:4.40.0] /Users/pipo/.gradle/caches/transforms-1/files-1.1/facebook-core-4.40.0.aar/a178c1db8d8433ce34c9ef23a3c7c2b1/AndroidManifest.xml:48:17-95
+	android:name
+		ADDED from [com.facebook.android:facebook-core:4.40.0] /Users/pipo/.gradle/caches/transforms-1/files-1.1/facebook-core-4.40.0.aar/a178c1db8d8433ce34c9ef23a3c7c2b1/AndroidManifest.xml:48:25-92
